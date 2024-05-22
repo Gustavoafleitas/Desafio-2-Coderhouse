@@ -96,6 +96,10 @@ footer p .logo2 {
   height: 35px;
 }
 
+footer p:hover {
+    color: yellow;
+}
+
 #club {
   display: flex;
   flex-wrap: wrap;
